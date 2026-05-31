@@ -97,4 +97,4 @@ No conversation data is uploaded, stored, or transmitted to any external server.
 
 ---
 
-Inspired by GitHub contribution graphs and built to help users explore their Instagram conversation history through meaningful visual analytics.
+Inspired by Leetcode's activity visualization and built to help users explore their Instagram conversation history through meaningful visual analytics.
